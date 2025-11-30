@@ -2,6 +2,10 @@
 
 Modern, kullanıcı dostu ve sosyal özelliklerle donatılmış bir kütüphane platformu. Kullanıcılar kendi film ve kitap koleksiyonlarını oluşturabilir, içerikleri puanlayıp yorumlayabilir ve takip ettikleri kullanıcıların aktivitelerini görebilirler.
 
+
+https://github.com/user-attachments/assets/7063814a-2489-4040-8c2c-6d90b4496587
+
+
 ## 🎯 Özellikler
 
 ### 👤 Kullanıcı Yönetimi
